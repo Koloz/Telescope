@@ -2,4 +2,4 @@
 
 # Drawing Practice
 
-[01_FirstTry.png](SAI/01_FirstTry.png)
+![01_FirstTry.png](SAI/01_FirstTry.png)
